@@ -1,0 +1,13 @@
+Ref,Qnty,Value,Cmp name,Footprint,Description,
+"C1, C2",2,10U,C,Capacitor_SMD:C_0603_1608Metric,Unpolarized capacitor,C2909630
+"C3, C4",2,1uF,C_Polarized_US,Capacitor_SMD:CP_Elec_4x5.4,"Polarized capacitor, US symbol",C970594
+D1,1,GREEN,LED,LED_SMD:LED_0603_1608Metric,Light emitting diode,C1322294
+D2,1,RED,LED,LED_SMD:LED_0603_1608Metric,Light emitting diode,C779452
+"J1, J2",2,Li-IoN Bat,Conn_01x02_Pin,Connector_JST:JST_PH_S2B-PH-K_1x02_P2.00mm_Horizontal,"Generic connector, single row, 01x02, script generated",C2681530
+J3,1,Conn_01x36_Pin,Conn_01x36_Pin,Connector_PinHeader_2.54mm:PinHeader_2x19_P2.54mm_Vertical,"Generic connector, single row, 01x36, script generated",C2883274
+J4,1,Conn_01x10_Pin,Conn_01x10_Pin,Connector_PinHeader_2.54mm:PinHeader_2x05_P2.54mm_Vertical,"Generic connector, single row, 01x10, script generated",C920776
+R1,1,0.4,R,Resistor_SMD:R_0603_1608Metric,Resistor,C1186
+"R2, R3",2,1K,R,Resistor_SMD:R_0603_1608Metric,Resistor,C304414
+U1,1,TP4056,TP4056,GLOBAL_FOOTPRINTS:TP4056,,C5311018
+U2,1,MCP1700x-120xxMB,MCP1700x-120xxMB,Package_TO_SOT_SMD:SOT-89-3,"250mA Low Quiscent Current LDO, 1.2V output, SOT-89",C145389
+U3,1,LILYGO-T-CALL-SIM800L,LILYGO-T-CALL-SIM800L,GLOBAL_FOOTPRINTS:LILYGO-T-CALL-SIM800L,,
